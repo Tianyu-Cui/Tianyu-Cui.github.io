@@ -1,5 +1,5 @@
 # Tianyu-Cui.github.io
-![Image of REPLACE_WITH_YOUR_NAME](images/headshot.png "REPLACE_WITH_SHORT_DESCRIPTION")
+![Image of Tianyu Cui](images/headshot.jpg "Tianyu with Meconopsis speciosa, Aug. 2024, Yunnan, China")
 
 ## About Me
 I am a MS student in the UConn EEB department interested in flower diversity and evolution.
