@@ -1,9 +1,8 @@
-## About Me
-I am a MS student in the UConn EEB department interested in flower diversity and evolution.
+Hello! I am Tianyu Cui (崔天羽). I am currently a MS student in the UConn EEB department.
 
 <img src="assets/images/Meconopsis.jpg" style="float:right" width="300" height="300">
 
-Tianyu with _Meconopsis speciosa_, Aug. 2024, Yunnan, China
+<p align="right">Tianyu with _Meconopsis speciosa_, Aug. 2024, Yunnan, China</p>
 
 [My CV](/assets/PDFs/CV_TianyuCui_2023.pdf)
 
