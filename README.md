@@ -1,7 +1,7 @@
-![Image of Tianyu Cui](assets/images/headshot.jpg "Tianyu with Meconopsis speciosa, Aug. 2024, Yunnan, China")
+![Image of Tianyu Cui](assets/images/Meconopsis.jpg "Tianyu with Meconopsis speciosa, Aug. 2024, Yunnan, China")
 
 <div style="float:right;margin:0 10px 10px 0" markdown="1">
-    ![Image of Tianyu Cui](assets/images/headshot.jpg)
+    ![Image of Tianyu Cui](assets/images/Meconopsis.jpg)
 </div>
 
 ## About Me
