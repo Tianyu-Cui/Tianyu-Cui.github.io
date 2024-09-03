@@ -8,5 +8,7 @@ As a naturalist, I have a keen interest in photographing and identifying floweri
 
 
 ![Image of Tianyu Cui](/assets/images/Corydalis.jpg)
-    
+
+Tianyu capturing _Corydalis hemidicentra_, July. 2022, Yunnan, China
+
 [Back to Home](/)
